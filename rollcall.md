@@ -578,3 +578,7 @@ Name, Organization, and (optionally) Contact Info
    * Github: yuan-gsu
    * Email: ylong4@gsu.edu
 
+* Charlotte Gruner, Casper College
+  * Github: charlottegruner
+  * Email: charlotte.gruner@caspercollege.edu
+
